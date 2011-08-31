@@ -1,0 +1,9 @@
+Needed packages:
+    asciidoc
+    syntax-highlight
+
+File:
+    book.txt
+
+How to compile:
+    asciidoc -d book book.txt
