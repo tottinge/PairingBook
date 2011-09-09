@@ -1,0 +1,19 @@
+.Common Hours
+******
+Problem: :: 
+    Can't pair because of timing issues, meetings, time zones, etc.
+Technique: :: 
+    Reserve certain hours of the day when all programmers make themselves available.
+Extension: :: 
+    Designated meeting attendee to spare the rest of the team from attending.
+******
+
+The first, and most obvious obstacle to pair programming is not being in the same place
+at the same time. The team can solve the timing issue by agreeing to all be present 
+and available during some part of the day (perhaps 10:00 to 14:00).
+
+Consider the designated attendee extension if a team is present, but continually drawn
+off to meetings. By designating people to attend meetings, everyone else can get some
+work done in the team room.
+
+

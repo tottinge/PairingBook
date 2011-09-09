@@ -1,0 +1,20 @@
+
+.Test-Driven Development
+*******
+Problem: ::
+    Role-switching among pairs need sync points, but these are 
+    few and far between.
+
+Technique: ::
+    Red, Green, Refactor
+
+Extensions: ::
+    Ping Pong, Baseball
+******
+
+This book is not really the place to fully explain Test-Driven Development (TDD)
+but it is one of the more useful ways to manage cadence and limit the scope of
+changes so that pair programmers may switch keyboards more often.
+
+PingPong and Baseball are TDD "games" describe in most useful TDD texts.
+

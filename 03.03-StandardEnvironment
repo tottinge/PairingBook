@@ -1,0 +1,15 @@
+
+.Standard Environment
+*******
+Problem: ::
+    Different tooling on development machines makes it hard for 
+    any developer to move from one machine to another.
+
+Technique: ::
+    The team chooses (for now) a single tool chain and configuration 
+    they will all learn so that pairing can progress.
+    
+Extensions: ::
+    Tool Auditions, Coding Standard
+******
+
